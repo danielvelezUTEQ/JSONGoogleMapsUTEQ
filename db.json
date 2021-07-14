@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+    "id": "1",
+    "logo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+    "facultad":"Facultad de Ciencias de la Ingeniería",
+    "decano":"Decano: Ing. Washington Alberto Chiriboga Casanova, M.Sc.",    
+    "ubicacion":"UTEQ"
+    },
+    
+    {
+    "id": "2",
+    "logo": "https://www.uteq.edu.ec/images/page/4/logo_fce.jpg",
+    "facultad":"Facultad de Ciencias Empresariales",
+    "decano":"Decana: Ing. Mariela Susana Andrade Arias, PhD",    
+    "ubicacion":"UTEQ"
+    },
+
+    {
+    "id": "3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGMGYjuKKLZIQWsQJyLnqaAEE44rW0qXTiTcm38BZj-33_T_15TG_CfYWE5mVAnaou-OU&usqp=CAU",
+    "facultad":"Facultad de Ciencias Agropecuarias",
+    "decano":"Decano: Ing. Leonardo Gonzalo Matute, M.Sc.",    
+    "ubicacion":"Campus La María"
+    },
+    
+    {
+    "id": "4",
+    "logo": "https://3.bp.blogspot.com/-fYlOzJNk0DA/WoSbHJXGzcI/AAAAAAAAA7E/SGC6Hp2qlcEDCbks59AykK3-8EYeSDeEQCLcBGAs/s1600/Imagen1.jpg",
+    "facultad":"Facultad de Ciencias de la Industria y Producción",
+    "decano":"Decana: Ing. Sonnia Esther Barzola Miranda, M.Sc.",    
+    "ubicacion":"Campus La María"
+    } 
+  ]
+}
